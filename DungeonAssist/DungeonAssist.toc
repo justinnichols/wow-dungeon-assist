@@ -1,0 +1,11 @@
+## Interface: 90005
+## Title: Dungeon Assist
+## Notes: A simple boss mechanic tool
+## Author: ulkeshkosh21
+## Version: 1.0.0
+## SavedVariables: DungeonAssist,DungeonAssistSettings,DungeonAssistMinimap
+
+embeds.xml
+localization\localization.xml
+modules\modules.xml
+DungeonAssist.lua
