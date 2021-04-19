@@ -3,7 +3,7 @@ local DA = DungeonAssist
 DA.LS = LibStub
 DA.L = DA.LS("AceLocale-3.0"):GetLocale("DungeonAssist")
 
-DA.addon = DA.LS("AceAddon-3.0"):NewAddon("DungeonAssist", "AceConsole-3.0", "AceEvent-3.0")
+DA.addon = DA.LS("AceAddon-3.0"):NewAddon("DungeonAssist", "AceConsole-3.0", "AceEvent-3.0", "AceComm-3.0")
 
 local dungeonAssistLDB = DA.LS("LibDataBroker-1.1"):NewDataObject("DungeonAssist", {
     type = "data source",
@@ -51,4 +51,9 @@ end
 
 function DA.addon:OnEnable()
 	self:RegisterEvent("PLAYER_ENTERING_WORLD")
+	DA.addon:RegisterComm("DAEvent")
+end
+
+function DA.addon:OnCommReceived(prefix, message, distribution, sender)
+	DA:onDungeonAssistEvent(prefix, message, distribution, sender)
 end

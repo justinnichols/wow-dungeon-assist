@@ -1,10 +1,19 @@
 local _G = _G
 local DA = DungeonAssist
 local AceGUI = DA.LS("AceGUI-3.0")
+local AceComm = DA.LS("AceComm-3.0")
 local L = DA.L
 local CHAT_DELAY = 2
 local IS_POSTING = false
 local window = nil
+
+function DA:onDungeonAssistEvent(prefix, message, distribution, sender)
+    if message == 'IS_POSTING' and not IS_POSTING then
+        IS_POSTING = true
+    elseif message == 'IS_NOT_POSTING' and IS_POSTING then
+        IS_POSTING = false
+    end
+end
 
 function DA:onBossClick(numMembers, instanceType, bossData, isLFG)
     if (IS_POSTING) then return end
@@ -17,6 +26,8 @@ function DA:onBossClick(numMembers, instanceType, bossData, isLFG)
         elseif (instanceType == "raid") then chatType = "RAID"
         end
     end
+    DA.addon:SendCommMessage("DAEvent", "IS_POSTING", chatType)
+
     SendChatMessage("Boss Mechanics for: " .. bossData.boss, chatType)
     DA:wait(CHAT_DELAY, sendChat, bossData.mechanics, 1, chatType)
 end
@@ -24,6 +35,7 @@ end
 function sendChat(mechanics, index, chatType)
     if (index > #mechanics) then
         IS_POSTING = false
+        DA.addon:SendCommMessage("DAEvent", "IS_NOT_POSTING", chatType)
         return 
     end
 
