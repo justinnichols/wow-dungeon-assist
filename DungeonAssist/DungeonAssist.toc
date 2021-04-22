@@ -2,8 +2,8 @@
 ## Title: Dungeon Assist
 ## Notes: A simple boss mechanic tool
 ## Author: ulkeshkosh21
-## Version: 1.0.0
-## SavedVariables: DungeonAssist,DungeonAssistSettings,DungeonAssistMinimap
+## Version: 1.0.1
+## SavedVariables: DungeonAssistSettings,DungeonAssistMinimap
 
 embeds.xml
 localization\localization.xml
