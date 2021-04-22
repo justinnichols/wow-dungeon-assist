@@ -10,6 +10,7 @@ local function getDungeonData(dungeon)
     while hasMoreBosses do
         if L[dungeon .. '_BOSS_' .. bossNum .. '_NAME'] ~= nil then
             data[bossNum] = {boss="", icon="", mechanics={}}
+            data[bossNum].bossShortName = L[dungeon .. '_BOSS_' .. bossNum .. '_SHORT_NAME']
             data[bossNum].boss = L[dungeon .. '_BOSS_' .. bossNum .. '_NAME']
             data[bossNum].icon = L[dungeon .. '_BOSS_' .. bossNum .. '_ICON']
             

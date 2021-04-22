@@ -12,6 +12,7 @@ L["ENABLE_MINIMAP_BUTTON"] = "Enable Minimap Button"
 L["NOT_SUPPORTED"] = "You are not in a supported instance."
 
 -- DE_OTHER_SIDE
+L["DE_OTHER_SIDE_BOSS_1_SHORT_NAME"] = "Hakkar"
 L["DE_OTHER_SIDE_BOSS_1_NAME"] = "Hakkar the Soulflayer"
 L["DE_OTHER_SIDE_BOSS_1_ICON"] = "icons\\shadowlands\\hakkar.png.blp"
 L["DE_OTHER_SIDE_BOSS_1_MECHANICS_1"] = "Two random players will be targeted with Corrupted Blood DoT, don’t walk in the circles."
@@ -19,6 +20,7 @@ L["DE_OTHER_SIDE_BOSS_1_MECHANICS_2"] = "Piercing Barb deals tank damage, mitiga
 L["DE_OTHER_SIDE_BOSS_1_MECHANICS_3"] = "Sons of Hakkar must be killed as soon as possible, and once dead leave large puddles that need to be avoided."
 L["DE_OTHER_SIDE_BOSS_1_MECHANICS_4"] = "Blood Barrier must be DPSed down as fast as possible. Barrier strength is based on party health at the end of its cast, so everyone should mitigate while it is being cast."
 
+L["DE_OTHER_SIDE_BOSS_2_SHORT_NAME"] = "The Manastorms"
 L["DE_OTHER_SIDE_BOSS_2_NAME"] = "The Manastorms"
 L["DE_OTHER_SIDE_BOSS_2_ICON"] = "icons\\shadowlands\\millificent-manastorm.png.blp"
 L["DE_OTHER_SIDE_BOSS_2_MECHANICS_1"] = "Millhouse: Soak the Power Overwhelming crystal beams."
@@ -29,6 +31,7 @@ L["DE_OTHER_SIDE_BOSS_2_MECHANICS_5"] = "Millificent: Must click the squirrel bo
 L["DE_OTHER_SIDE_BOSS_2_MECHANICS_6"] = "Millificent: A random player is targeted with Shadowfury, bring the circle on top of Millificent to stun her."
 L["DE_OTHER_SIDE_BOSS_2_MECHANICS_7"] = "Millificent: Aerial Rocket Chicken Barrage will bring fiery chickens raining from the sky -- it is vital to stun her with Shadowfury to avoid this."
 
+L["DE_OTHER_SIDE_BOSS_3_SHORT_NAME"] = "Xy’exa"
 L["DE_OTHER_SIDE_BOSS_3_NAME"] = "Dealer Xy’exa"
 L["DE_OTHER_SIDE_BOSS_3_ICON"] = "icons\\shadowlands\\dealerxyexa.png.blp"
 L["DE_OTHER_SIDE_BOSS_3_MECHANICS_1"] = "Localized Explosive Contrivance targets a random non-tank player. That player must launch themselves using a Displacement Trap on the ground just prior to the bomb detonating."
@@ -36,6 +39,7 @@ L["DE_OTHER_SIDE_BOSS_3_MECHANICS_2"] = "Explosive Contrivance targets everyone 
 L["DE_OTHER_SIDE_BOSS_3_MECHANICS_3"] = "Arcane Lightning debuffs the tank and chains to nearby players, cycle players with this if necessary."
 L["DE_OTHER_SIDE_BOSS_3_MECHANICS_4"] = "Avoid frontal cone Displaced Blastwave attack."
 
+L["DE_OTHER_SIDE_BOSS_4_SHORT_NAME"] = "Mueh’zala"
 L["DE_OTHER_SIDE_BOSS_4_NAME"] = "Mueh’zala"
 L["DE_OTHER_SIDE_BOSS_4_ICON"] = "icons\\shadowlands\\muehzala.png.blp"
 L["DE_OTHER_SIDE_BOSS_4_MECHANICS_1"] = "Avoid Master of Death combo attacks (either left, right, or in front)."
@@ -44,12 +48,14 @@ L["DE_OTHER_SIDE_BOSS_4_MECHANICS_3"] = "Cosmic Artifice targets everyone but th
 L["DE_OTHER_SIDE_BOSS_4_MECHANICS_4"] = "Shatter Reality creates portals to take to other platforms. Must split the group and kill the Shattered Visage and then click the totem across from it. (MYTHIC) There will be four portals, one per platform."
 
 -- HALLS_OF_ATONEMENT
+L["HALLS_OF_ATONEMENT_BOSS_1_SHORT_NAME"] = "Halkias"
 L["HALLS_OF_ATONEMENT_BOSS_1_NAME"] = "Halkias"
 L["HALLS_OF_ATONEMENT_BOSS_1_ICON"] = "icons\\shadowlands\\halkias.png.blp"
 L["HALLS_OF_ATONEMENT_BOSS_1_MECHANICS_1"] = "Avoid Crumbling Slam and Heave Debris void zones."
 L["HALLS_OF_ATONEMENT_BOSS_1_MECHANICS_2"] = "Refracted Sunlight generates four beams in a cross pattern that rotates and can change direction -- avoid these beams."
 L["HALLS_OF_ATONEMENT_BOSS_1_MECHANICS_3"] = "(MYTHIC) A large red circle surrounds Halkias and all players must stay within it or will be permanently feared away."
 
+L["HALLS_OF_ATONEMENT_BOSS_2_SHORT_NAME"] = "Echelon"
 L["HALLS_OF_ATONEMENT_BOSS_2_NAME"] = "Echelon"
 L["HALLS_OF_ATONEMENT_BOSS_2_ICON"] = "icons\\shadowlands\\echelon.png.blp"
 L["HALLS_OF_ATONEMENT_BOSS_2_MECHANICS_1"] = "Avoid blood pools on the ground."
@@ -57,12 +63,14 @@ L["HALLS_OF_ATONEMENT_BOSS_2_MECHANICS_2"] = "Group Stonefiends together and kil
 L["HALLS_OF_ATONEMENT_BOSS_2_MECHANICS_3"] = "Curse of Stone is cast on a random player, it should be removed if possible."
 L["HALLS_OF_ATONEMENT_BOSS_2_MECHANICS_4"] = "A random player will get a brown ring around them and Echelon will perform Shattering Leap on this player. Position the ring on top of the petrified Stonefiends to destroy them."
 
+L["HALLS_OF_ATONEMENT_BOSS_3_SHORT_NAME"] = "Aleez"
 L["HALLS_OF_ATONEMENT_BOSS_3_NAME"] = "High Adjudicator Aleez"
 L["HALLS_OF_ATONEMENT_BOSS_3_ICON"] = "icons\\shadowlands\\highadjudicatoraleez.png.blp"
 L["HALLS_OF_ATONEMENT_BOSS_3_MECHANICS_1"] = "Interrupt every Volley of Power."
 L["HALLS_OF_ATONEMENT_BOSS_3_MECHANICS_2"] = "Avoid orange swirls on ground."
 L["HALLS_OF_ATONEMENT_BOSS_3_MECHANICS_3"] = "A Ghastly Parishioner that does AOE damage will fixate on a random player, kite it to an anima vessel to destroy."
 
+L["HALLS_OF_ATONEMENT_BOSS_4_SHORT_NAME"] = "Chamberlain"
 L["HALLS_OF_ATONEMENT_BOSS_4_NAME"] = "Lord Chamberlain"
 L["HALLS_OF_ATONEMENT_BOSS_4_ICON"] = "icons\\shadowlands\\lordchamberlain.png.blp"
 L["HALLS_OF_ATONEMENT_BOSS_4_MECHANICS_1"] = "Telekinetic Toss will throw a statue at a random player, avoid if possible."
@@ -72,6 +80,7 @@ L["HALLS_OF_ATONEMENT_BOSS_4_MECHANICS_4"] = "After every Telekinetic Repulsion,
 L["HALLS_OF_ATONEMENT_BOSS_4_MECHANICS_5"] = "(MYTHIC) There are 4 Ritual of Woe beams, all must be soaked. Tank is capable of soaking two beams at once if stacked on top of Lord Chamberlain."
 
 -- MISTS_OF_TIRNA_SCITHE
+L["MISTS_OF_TIRNA_SCITHE_BOSS_1_SHORT_NAME"] = "Ingra Maloch"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_1_NAME"] = "Ingra Maloch"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_1_ICON"] = "icons\\shadowlands\\ingramaloch.png.blp"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_1_MECHANICS_1"] = "For Droman Oulfarran: avoid Bewildering Pollen cone attack and avoid Tears of the Forest blue puddles."
@@ -80,6 +89,7 @@ L["MISTS_OF_TIRNA_SCITHE_BOSS_1_MECHANICS_3"] = "1. Target Droman Oulfarran, bri
 L["MISTS_OF_TIRNA_SCITHE_BOSS_1_MECHANICS_4"] = "2. Switch to Ingra Maloch. Lust if possible here."
 L["MISTS_OF_TIRNA_SCITHE_BOSS_1_MECHANICS_5"] = "3. Repeat steps 1 and 2."
 
+L["MISTS_OF_TIRNA_SCITHE_BOSS_2_SHORT_NAME"] = "Mistcaller"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_2_NAME"] = "Mistcaller"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_2_ICON"] = "icons\\shadowlands\\mistcaller.png.blp"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_2_MECHANICS_1"] = "Dodgeball: Move out of the arrows."
@@ -87,6 +97,7 @@ L["MISTS_OF_TIRNA_SCITHE_BOSS_2_MECHANICS_2"] = "Freeze Tag: Avoid the fox, it c
 L["MISTS_OF_TIRNA_SCITHE_BOSS_2_MECHANICS_3"] = "Patty Cake: Tank must interrupt this and only the tank is able to interrupt it."
 L["MISTS_OF_TIRNA_SCITHE_BOSS_2_MECHANICS_4"] = "Guessing Game: Similar to the maze, kill the copy that doesn't belong. (MYTHIC) Mistcaller does not despawn during this."
 
+L["MISTS_OF_TIRNA_SCITHE_BOSS_3_SHORT_NAME"] = "Tred'ova"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_3_NAME"] = "Tred'ova"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_3_ICON"] = "icons\\shadowlands\\tredova.png.blp"
 L["MISTS_OF_TIRNA_SCITHE_BOSS_3_MECHANICS_1"] = "Consumption: At 70% and 40% health, will shield and spawn blue void zones, avoid them."
@@ -96,6 +107,7 @@ L["MISTS_OF_TIRNA_SCITHE_BOSS_3_MECHANICS_4"] = "Accelerated Incubation: Summons
 L["MISTS_OF_TIRNA_SCITHE_BOSS_3_MECHANICS_5"] = "(MYTHIC) Parasitic Infester: Any and all casts of \"Parasitic ...\" should be interrupted. If missed, dps the targeted player."
 
 -- PLAGUEFALL
+L["PLAGUEFALL_BOSS_1_SHORT_NAME"] = "Globgrog"
 L["PLAGUEFALL_BOSS_1_NAME"] = "Globgrog"
 L["PLAGUEFALL_BOSS_1_ICON"] = "icons\\shadowlands\\globgrog.png.blp"
 L["PLAGUEFALL_BOSS_1_MECHANICS_1"] = "Plaguestomp: Medium knockback that applies Debilitating Plague (Disease) to everyone, dispel ASAP."
@@ -103,6 +115,7 @@ L["PLAGUEFALL_BOSS_1_MECHANICS_2"] = "Slime Wave: 90deg frontal cone attack that
 L["PLAGUEFALL_BOSS_1_MECHANICS_3"] = "Beckon Slime: Summons 3 small slimes from the water that will heal the boss if they reach him."
 L["PLAGUEFALL_BOSS_1_MECHANICS_4"] = "(MYTHIC) Beckon Slime also summons a LARGE slime that will heal him significantly if it reaches him."
 
+L["PLAGUEFALL_BOSS_2_SHORT_NAME"] = "Ickus"
 L["PLAGUEFALL_BOSS_2_NAME"] = "Doctor Ickus"
 L["PLAGUEFALL_BOSS_2_ICON"] = "icons\\shadowlands\\doctorickus.png.blp"
 L["PLAGUEFALL_BOSS_2_MECHANICS_1"] = "Boss jumps from platform to platform while you are clearing trash, avoid him."
@@ -111,6 +124,7 @@ L["PLAGUEFALL_BOSS_2_MECHANICS_3"] = "Dodge Slime Lunge (targets a random player
 L["PLAGUEFALL_BOSS_2_MECHANICS_4"] = "Boss jumps to random platform and summons a Plague Bomb, kill this before it explodes."
 L["PLAGUEFALL_BOSS_2_MECHANICS_5"] = "(MYTHIC) Boss summons purple slime that must be tanked AWAY from the Plague Bomb."
 
+L["PLAGUEFALL_BOSS_3_SHORT_NAME"] = "Domina"
 L["PLAGUEFALL_BOSS_3_NAME"] = "Domina Venomblade"
 L["PLAGUEFALL_BOSS_3_ICON"] = "icons\\shadowlands\\dominavenomblade.png.blp"
 L["PLAGUEFALL_BOSS_3_MECHANICS_1"] = "Cytotoxic Slash: Poison debuff on tank, remove ASAP."
@@ -118,6 +132,7 @@ L["PLAGUEFALL_BOSS_3_MECHANICS_2"] = "Shadow Ambush: Purple circle around one pl
 L["PLAGUEFALL_BOSS_3_MECHANICS_3"] = "Shroudweb on ground: Players should use AOE abilities on the center of the webs to reveal the Adds and force them to move to the tank."
 L["PLAGUEFALL_BOSS_3_MECHANICS_4"] = "(MYTHIC) If any player is by himself for too long, Solitary Prey will stun them inside a cocoon. Have a battle buddy."
 
+L["PLAGUEFALL_BOSS_4_SHORT_NAME"] = "Margrave"
 L["PLAGUEFALL_BOSS_4_NAME"] = "Margrave Stradama"
 L["PLAGUEFALL_BOSS_4_ICON"] = "icons\\shadowlands\\margravestradama.png.blp"
 L["PLAGUEFALL_BOSS_4_MECHANICS_1"] = "Focus Malignant Spawn, team should move behind tank here. Green circle must be soaked ONLY by the tank."
@@ -125,6 +140,7 @@ L["PLAGUEFALL_BOSS_4_MECHANICS_2"] = "Dodge the Tentacles before they Plague Sma
 L["PLAGUEFALL_BOSS_4_MECHANICS_3"] = "(MYTHIC) Avoid Plaguebound Devoted spawned in the room unless the tank has aggro on them."
 
 -- SANGUINE_DEPTHS
+L["SANGUINE_DEPTHS_BOSS_1_SHORT_NAME"] = "Kryxis"
 L["SANGUINE_DEPTHS_BOSS_1_NAME"] = "Kryxis the Voracious"
 L["SANGUINE_DEPTHS_BOSS_1_ICON"] = "icons\\shadowlands\\kryxisthevoracious.png.blp"
 L["SANGUINE_DEPTHS_BOSS_1_MECHANICS_1"] = "Interrupt Hungering Drain as soon as possible."
@@ -132,6 +148,7 @@ L["SANGUINE_DEPTHS_BOSS_1_MECHANICS_2"] = "Tank should mitigate Vicious Headbutt
 L["SANGUINE_DEPTHS_BOSS_1_MECHANICS_3"] = "A random player will be targeted with Juggernaut Rush, everyone else should get in between him and the targeted player to help split damage."
 L["SANGUINE_DEPTHS_BOSS_1_MECHANICS_4"] = "Every player will be hit with Severing Smash, run over the orbs that spawn. (MYTHIC) Each orb does group wide damage, be cautious."
 
+L["SANGUINE_DEPTHS_BOSS_2_SHORT_NAME"] = "Tarvold"
 L["SANGUINE_DEPTHS_BOSS_2_NAME"] = "Executor Tarvold"
 L["SANGUINE_DEPTHS_BOSS_2_ICON"] = "icons\\shadowlands\\executortarvold.png.blp"
 L["SANGUINE_DEPTHS_BOSS_2_MECHANICS_1"] = "(MYTHIC) Begin the fight on the outside of the circle and once the orb passes, move right to avoid the other orb."
@@ -139,12 +156,14 @@ L["SANGUINE_DEPTHS_BOSS_2_MECHANICS_2"] = "Castigate will be cast on a random no
 L["SANGUINE_DEPTHS_BOSS_2_MECHANICS_3"] = "A Fleeting Manifestation will spawn doing high AOE damage. Kill it immediately. Once killed, it leaves behind a void zone forcing the tank to kite the boss away."
 L["SANGUINE_DEPTHS_BOSS_2_MECHANICS_4"] = "(MYTHIC) Dodge the orbs that rotate around the circle by moving between the outside and inside of the circle."
 
+L["SANGUINE_DEPTHS_BOSS_3_SHORT_NAME"] = "Beryllia"
 L["SANGUINE_DEPTHS_BOSS_3_NAME"] = "Grand Proctor Beryllia"
 L["SANGUINE_DEPTHS_BOSS_3_ICON"] = "icons\\shadowlands\\grandproctorberyllia.png.blp"
 L["SANGUINE_DEPTHS_BOSS_3_MECHANICS_1"] = "Iron Spikes does high tank damage, must mitigate it."
 L["SANGUINE_DEPTHS_BOSS_3_MECHANICS_2"] = "Rite of Supremacy deals high damage, but can be mitigated by moving to the glowing circle. (MYTHIC) Each player instead must pick up at least 3 glowing orbs."
 L["SANGUINE_DEPTHS_BOSS_3_MECHANICS_3"] = "Endless Torment channels AOE swirls on the ground. Players must keep running and avoid the swirls."
 
+L["SANGUINE_DEPTHS_BOSS_4_SHORT_NAME"] = "General Kaal"
 L["SANGUINE_DEPTHS_BOSS_4_NAME"] = "General Kaal"
 L["SANGUINE_DEPTHS_BOSS_4_ICON"] = "icons\\shadowlands\\generalkaal.png.blp"
 L["SANGUINE_DEPTHS_BOSS_4_MECHANICS_1"] = "Tank must pick up the glowing shield which provides the Shining Radiance ability."
@@ -154,6 +173,7 @@ L["SANGUINE_DEPTHS_BOSS_4_MECHANICS_4"] = "Piercing Blur creates a red beam that
 L["SANGUINE_DEPTHS_BOSS_4_MECHANICS_5"] = "Gloom Squall will be cast periodically and requires everyone to stack inside the Shining Radiance glowing circle the tank will cast."
 
 -- SPIRES_OF_ASCENSION
+L["SPIRES_OF_ASCENSION_BOSS_1_SHORT_NAME"] = "Kin-Tara"
 L["SPIRES_OF_ASCENSION_BOSS_1_NAME"] = "Kin-Tara & Azules"
 L["SPIRES_OF_ASCENSION_BOSS_1_ICON"] = "icons\\shadowlands\\kin-tara.png.blp"
 L["SPIRES_OF_ASCENSION_BOSS_1_MECHANICS_1"] = "They share a health pool, should be stacked together and cleaved."
@@ -161,6 +181,7 @@ L["SPIRES_OF_ASCENSION_BOSS_1_MECHANICS_2"] = "Overhead Slash is a high damage t
 L["SPIRES_OF_ASCENSION_BOSS_1_MECHANICS_3"] = "Stand behind Azules to avoid the Attenuated Barrage."
 L["SPIRES_OF_ASCENSION_BOSS_1_MECHANICS_4"] = "Dodge Charged Spears from Kin-Tara when she is in flight."
 
+L["SPIRES_OF_ASCENSION_BOSS_2_SHORT_NAME"] = "Ventunax"
 L["SPIRES_OF_ASCENSION_BOSS_2_NAME"] = "Ventunax"
 L["SPIRES_OF_ASCENSION_BOSS_2_ICON"] = "icons\\shadowlands\\ventunax.png.blp"
 L["SPIRES_OF_ASCENSION_BOSS_2_MECHANICS_1"] = "Should be tanked on the edge of the circle and moved around when a Shadowhirl is spawned."
@@ -168,6 +189,7 @@ L["SPIRES_OF_ASCENSION_BOSS_2_MECHANICS_2"] = "Dark Stride charges a random play
 L["SPIRES_OF_ASCENSION_BOSS_2_MECHANICS_3"] = "All players must dodge the Dark Bolts coming from the Shadowhirl."
 L["SPIRES_OF_ASCENSION_BOSS_2_MECHANICS_4"] = "Avoid Blinding Light frontal cone attack."
 
+L["SPIRES_OF_ASCENSION_BOSS_3_SHORT_NAME"] = "Oryphion"
 L["SPIRES_OF_ASCENSION_BOSS_3_NAME"] = "Oryphion"
 L["SPIRES_OF_ASCENSION_BOSS_3_ICON"] = "icons\\shadowlands\\oryphrion.png.blp"
 L["SPIRES_OF_ASCENSION_BOSS_3_MECHANICS_1"] = "Purifying Blast targets a random non-tank player, should be run out away from the group."
@@ -175,6 +197,7 @@ L["SPIRES_OF_ASCENSION_BOSS_3_MECHANICS_2"] = "Charged Stomp is a tank hit that 
 L["SPIRES_OF_ASCENSION_BOSS_3_MECHANICS_3"] = "Stack together for Empyreal Ordnance, once the Anima Fields drop, run out as fast as possible. Keep Oryphion on the same side of the area for two Empyreal Ordnance drops, then run across to the other side."
 L["SPIRES_OF_ASCENSION_BOSS_3_MECHANICS_4"] = "Recharge Anima will spawn orbs from the Anima Field zones. All orbs do damage and must be soaked before they reach Oryphion."
 
+L["SPIRES_OF_ASCENSION_BOSS_4_SHORT_NAME"] = "Devos"
 L["SPIRES_OF_ASCENSION_BOSS_4_NAME"] = "Devos"
 L["SPIRES_OF_ASCENSION_BOSS_4_ICON"] = "icons\\shadowlands\\devos.png.blp"
 L["SPIRES_OF_ASCENSION_BOSS_4_MECHANICS_1"] = "Lost Confidence targets two random players, and drops a puddle upon expiration -- avoid the puddle."
@@ -185,6 +208,7 @@ L["SPIRES_OF_ASCENSION_BOSS_4_MECHANICS_5"] = "Once orbs are in, tank should cli
 L["SPIRES_OF_ASCENSION_BOSS_4_MECHANICS_6"] = "During the Anima Orbs phase, everyone will have a stacking DoT that must be healed through."
 
 -- THE_NECROTIC_WAKE
+L["THE_NECROTIC_WAKE_BOSS_1_SHORT_NAME"] = "Blightbone"
 L["THE_NECROTIC_WAKE_BOSS_1_NAME"] = "Blightbone"
 L["THE_NECROTIC_WAKE_BOSS_1_ICON"] = "icons\\shadowlands\\blightbone.png.blp"
 L["THE_NECROTIC_WAKE_BOSS_1_MECHANICS_1"] = "Crunch is a tank hit, mitigate this."
@@ -192,6 +216,7 @@ L["THE_NECROTIC_WAKE_BOSS_1_MECHANICS_2"] = "Fetid Gas will drop a void zone, av
 L["THE_NECROTIC_WAKE_BOSS_1_MECHANICS_3"] = "Heaving Wretch targets a random player with a cone attack, should aim this toward a wall away from the group."
 L["THE_NECROTIC_WAKE_BOSS_1_MECHANICS_4"] = "Carrion Worms will spawn from the Heaving Wretch, avoid touching them and kill them immediately. (MYTHIC) Killed Carrion Worms will drop Fetid Gas void zones."
 
+L["THE_NECROTIC_WAKE_BOSS_2_SHORT_NAME"] = "Amarth"
 L["THE_NECROTIC_WAKE_BOSS_2_NAME"] = "Amarth the Harvester"
 L["THE_NECROTIC_WAKE_BOSS_2_ICON"] = "icons\\shadowlands\\amarththeharvester.png.blp"
 L["THE_NECROTIC_WAKE_BOSS_2_MECHANICS_1"] = "Unholy Frenzy is an enrage that can be soothed."
@@ -199,6 +224,7 @@ L["THE_NECROTIC_WAKE_BOSS_2_MECHANICS_2"] = "Land of the Dead will summon Warrio
 L["THE_NECROTIC_WAKE_BOSS_2_MECHANICS_3"] = "Final Harvest will cause very high AOE damage if any Warriors, Mages, or Crossbowman are still alive. Avoid green swirls on the ground."
 L["THE_NECROTIC_WAKE_BOSS_2_MECHANICS_4"] = "(MYTHIC) Necrotic Breath is a frontal cone attack that rotates, avoid this."
 
+L["THE_NECROTIC_WAKE_BOSS_3_SHORT_NAME"] = "Stitchflesh"
 L["THE_NECROTIC_WAKE_BOSS_3_NAME"] = "Surgeon Stitchflesh"
 L["THE_NECROTIC_WAKE_BOSS_3_ICON"] = "icons\\shadowlands\\surgeonstichflesh.png.blp"
 L["THE_NECROTIC_WAKE_BOSS_3_MECHANICS_1"] = "All players should stack near the tank and ideally players should have at least one spear from earlier in the dungeon to use on Surgeon Stitchflesh."
@@ -207,6 +233,7 @@ L["THE_NECROTIC_WAKE_BOSS_3_MECHANICS_3"] = "Mutilate and Sever Flesh are tank h
 L["THE_NECROTIC_WAKE_BOSS_3_MECHANICS_4"] = "Morbid Fixation targets a random non-tank player, that player must run."
 L["THE_NECROTIC_WAKE_BOSS_3_MECHANICS_5"] = "Stitchneedle bleeds everyone while Surgeon Stitchflesh is down off the platform."
 
+L["THE_NECROTIC_WAKE_BOSS_4_SHORT_NAME"] = "Nalthor"
 L["THE_NECROTIC_WAKE_BOSS_4_NAME"] = "Nalthor the Rimebinder"
 L["THE_NECROTIC_WAKE_BOSS_4_ICON"] = "icons\\shadowlands\\nalthortherimebinder.png.blp"
 L["THE_NECROTIC_WAKE_BOSS_4_MECHANICS_1"] = "Icy Shard is a tank hit, mitigate this."
@@ -215,24 +242,28 @@ L["THE_NECROTIC_WAKE_BOSS_4_MECHANICS_3"] = "Comet Storm creates void zones that
 L["THE_NECROTIC_WAKE_BOSS_4_MECHANICS_4"] = "Dark Exile will force a random DPS player downstairs to dodge the AOE along the path, kill a Zolramus Siphoner, and escape. The player has 50 seconds to escape. (MYTHIC) Once returned, player should run to a corner to drop the Frigid Cold void zone."
 
 -- THEATER_OF_PAIN
+L["THEATER_OF_PAIN_BOSS_1_SHORT_NAME"] = "Challengers"
 L["THEATER_OF_PAIN_BOSS_1_NAME"] = "Affront of Challengers"
 L["THEATER_OF_PAIN_BOSS_1_ICON"] = "icons\\shadowlands\\affrontofchallengers.png.blp"
 L["THEATER_OF_PAIN_BOSS_1_MECHANICS_1"] = "Paceran: teleports away and start casting, interrupt him to bring him back to the tank. At 40% health, Paceran will cause players to spawn green pools under them -- do not stand in poo."
 L["THEATER_OF_PAIN_BOSS_1_MECHANICS_2"] = "Sathel: Interrupt Searing Death and Necromantic Bolt.  Spellsteal or dispel Spectral Transference ASAP. At 40% health, Sathel gets 30 second shield for 30% of his max health and is uninterruptible during this time."
 L["THEATER_OF_PAIN_BOSS_1_MECHANICS_3"] = "Dessia: Tank should mitigate Mortal Strike and Slam. At 40% health, Dessia will enrage and fixate on a non-tank player, soothe her or have the fixated player run away until it ends."
 
+L["THEATER_OF_PAIN_BOSS_2_SHORT_NAME"] = "Gorechop"
 L["THEATER_OF_PAIN_BOSS_2_NAME"] = "Gorechop"
 L["THEATER_OF_PAIN_BOSS_2_ICON"] = "icons\\shadowlands\\gorechop.png.blp"
 L["THEATER_OF_PAIN_BOSS_2_MECHANICS_1"] = "Dodge the Meathooks by finding the two gaps."
 L["THEATER_OF_PAIN_BOSS_2_MECHANICS_2"] = "Adds will drop a green puddle when they die -- do not stand in poo."
 L["THEATER_OF_PAIN_BOSS_2_MECHANICS_3"] = "(MYTHIC) Boss will pull everyone to him just before the Meathooks, get out of the brown circle before he finishes casting Tenderizing Smash."
 
+L["THEATER_OF_PAIN_BOSS_3_SHORT_NAME"] = "Xav"
 L["THEATER_OF_PAIN_BOSS_3_NAME"] = "Xav the Unfallen"
 L["THEATER_OF_PAIN_BOSS_3_ICON"] = "icons\\shadowlands\\xavtheunfallen.png.blp"
 L["THEATER_OF_PAIN_BOSS_3_MECHANICS_1"] = "Summons Oppressive Banner, kill it fast."
 L["THEATER_OF_PAIN_BOSS_3_MECHANICS_2"] = "Casts Crushing Slam, Massive Cleave, and Deafening Crash, all of these must be dodged. Deafening Crash will also interrupt casters when it hits."
 L["THEATER_OF_PAIN_BOSS_3_MECHANICS_3"] = "Two random DPS players will be thrown out and forced to fight each other. The winner gets a DPS increase, the loser gets a decrease. If neither player wins in 45 seconds, BOTH get a decrease."
 
+L["THEATER_OF_PAIN_BOSS_4_SHORT_NAME"] = "Kul’tharok"
 L["THEATER_OF_PAIN_BOSS_4_NAME"] = "Kul’tharok"
 L["THEATER_OF_PAIN_BOSS_4_ICON"] = "icons\\shadowlands\\kultharok.png.blp"
 L["THEATER_OF_PAIN_BOSS_4_MECHANICS_1"] = "If Tank is not in melee range of Boss, she will cast a stacking DoT on them."
@@ -240,6 +271,7 @@ L["THEATER_OF_PAIN_BOSS_4_MECHANICS_2"] = "Phantasmal Parasite (Magic Debuff) wi
 L["THEATER_OF_PAIN_BOSS_4_MECHANICS_3"] = "Avoid the impact locations of Spectral Hands."
 L["THEATER_OF_PAIN_BOSS_4_MECHANICS_4"] = "Channel Soul: Affected players should stand behind Spectral Hand locations so the hands catch their soul and make it easier to catch after the Horrified debuff ends."
 
+L["THEATER_OF_PAIN_BOSS_5_SHORT_NAME"] = "Mordretha"
 L["THEATER_OF_PAIN_BOSS_5_NAME"] = "Mordretha"
 L["THEATER_OF_PAIN_BOSS_5_ICON"] = "icons\\shadowlands\\mordretha.png.blp"
 L["THEATER_OF_PAIN_BOSS_5_MECHANICS_1"] = "Dark Devastation: Frontal beam that rotates in a random direction, avoid at all costs."
@@ -249,17 +281,20 @@ L["THEATER_OF_PAIN_BOSS_5_MECHANICS_4"] = "(MYTHIC) At 50% Two types of ghosts w
 
 
 -- CASTLE_NATHRIA
+L["CASTLE_NATHRIA_BOSS_1_SHORT_NAME"] = "Shriekwing"
 L["CASTLE_NATHRIA_BOSS_1_NAME"] = "Shriekwing"
 L["CASTLE_NATHRIA_BOSS_1_ICON"] = "icons\\shadowlands\\shriekwing.png.blp"
 L["CASTLE_NATHRIA_BOSS_1_MECHANICS_1"] = "Phase 1: Tank swap on every Exsanguinating Bite (use mitigation). Line of Sight the Earsplitting Shriek. Run Echolocation rings to wall. Avoid Blind Swipe cone attack. (HEROIC) Avoid the discs."
 L["CASTLE_NATHRIA_BOSS_1_MECHANICS_2"] = "Phase 2: Stay away from Shriekwing. Avoid the discs."
 
+L["CASTLE_NATHRIA_BOSS_2_SHORT_NAME"] = "Altimor"
 L["CASTLE_NATHRIA_BOSS_2_NAME"] = "Huntsman Altimor"
 L["CASTLE_NATHRIA_BOSS_2_ICON"] = "icons\\shadowlands\\huntsmanaltimor.png.blp"
 L["CASTLE_NATHRIA_BOSS_2_MECHANICS_1"] = "Phase 1: Focus Margore, tank swap on two stacks of the bleed. Nearby DPS should soak Margore’s Lunge unless the target has 100% mitigation (Turtle or Ice Block)."
 L["CASTLE_NATHRIA_BOSS_2_MECHANICS_2"] = "Phase 2: Focus Barghast. Separate Barghast and Altimore. Heal Rip Soul immediately. When Shade of Barghast is cast, move Barghast away. CC Shade of Barghast until it has at least 10-15 stacks of Destabilize, then kill the shade while still CCing."
 L["CASTLE_NATHRIA_BOSS_2_MECHANICS_3"] = "Phase 3: Random players targeted with Petrifying Howl, run them out to the edge. Tank must kite Hecutis to drop Crushing Stone debuff some, but it does raid wide damage -- be cautious."
 
+L["CASTLE_NATHRIA_BOSS_3_SHORT_NAME"] = "Destroyer"
 L["CASTLE_NATHRIA_BOSS_3_NAME"] = "Hungering Destroyer"
 L["CASTLE_NATHRIA_BOSS_3_ICON"] = "icons\\shadowlands\\hungeringdestroyer.png.blp"
 L["CASTLE_NATHRIA_BOSS_3_MECHANICS_1"] = "Tank swap after each Overwhelm, use mitigation."
@@ -268,6 +303,7 @@ L["CASTLE_NATHRIA_BOSS_3_MECHANICS_3"] = "Three random players targeted with Vol
 L["CASTLE_NATHRIA_BOSS_3_MECHANICS_4"] = "Expunge (dark blue circle) requires all players to spread out, don’t stand in someone else’s circle. (HEROIC) Upon expiration, orbs spawn, avoid or soak with caution."
 L["CASTLE_NATHRIA_BOSS_3_MECHANICS_5"] = "Consume requires everyone to run out of the AOE until it’s over."
 
+L["CASTLE_NATHRIA_BOSS_4_SHORT_NAME"] = "Darkvein"
 L["CASTLE_NATHRIA_BOSS_4_NAME"] = "Lady Inerva Darkvein"
 L["CASTLE_NATHRIA_BOSS_4_ICON"] = "icons\\shadowlands\\ladyinervadarkvein.png.blp"
 L["CASTLE_NATHRIA_BOSS_4_MECHANICS_1"] = "Tank swap after every two Expose Desires bleed."
@@ -277,6 +313,7 @@ L["CASTLE_NATHRIA_BOSS_4_MECHANICS_4"] = "3 random non-tank players will get lin
 L["CASTLE_NATHRIA_BOSS_4_MECHANICS_5"] = "A random non-tank player will get Lightly Concentrated Anima cast on them (large red circle). Bring it to the edge of melee range. A Harnessed Specter will spawn which must be tanked and killed immediately."
 L["CASTLE_NATHRIA_BOSS_4_MECHANICS_6"] = "At 25%, Inerva must be killed as quickly as possible. If the fourth anima container fills, it is a raid wipe."
 
+L["CASTLE_NATHRIA_BOSS_5_SHORT_NAME"] = "Xy’Mox"
 L["CASTLE_NATHRIA_BOSS_5_NAME"] = "Artificer Xy’Mox"
 L["CASTLE_NATHRIA_BOSS_5_ICON"] = "icons\\shadowlands\\artificerxymox.png.blp"
 L["CASTLE_NATHRIA_BOSS_5_MECHANICS_1"] = "All phases: Tank swap on Glyph of Destruction."
@@ -284,11 +321,13 @@ L["CASTLE_NATHRIA_BOSS_5_MECHANICS_2"] = "Phase 1: Drop one portal near boss, an
 L["CASTLE_NATHRIA_BOSS_5_MECHANICS_3"] = "Phase 2 (70%): Drop one portal near boss, another on far end of the room. Players must take seeds to far end of the room. Do not stand in blue goo when seeds explode."
 L["CASTLE_NATHRIA_BOSS_5_MECHANICS_4"] = "Phase 3 (40%): Drop one portal near boss, another in middle of the room on the side of the raid. When Edge of Annihilation is activated, the relic in the middle will draw everyone toward it which if caught by it is an instant death."
 
+L["CASTLE_NATHRIA_BOSS_6_SHORT_NAME"] = "Sun King"
 L["CASTLE_NATHRIA_BOSS_6_NAME"] = "Sun King’s Salvation"
 L["CASTLE_NATHRIA_BOSS_6_ICON"] = "icons\\shadowlands\\sunkingssalvation.png.blp"
 L["CASTLE_NATHRIA_BOSS_6_MECHANICS_1"] = "Phase 1: Heal Kael’thas on the platform to 45% (and then to 90%). Tank Rockbound Vanquisher. Kill priority: Soul Infusor -> Bleakwing Assassin -> Rockbound Vanquisher -> Everything else."
 L["CASTLE_NATHRIA_BOSS_6_MECHANICS_2"] = "Phase 2: Tank Shade of Kael’thas over by the back corner, aiming toward the wall and mitigate Fiery Strike. Move out of Blazing Surge cone. Help soak Ember Blast fire circle. Take phoenixes away from raid. Avoid fire void zones. Move Shade as necessary."
 
+L["CASTLE_NATHRIA_BOSS_7_SHORT_NAME"] = "The Council"
 L["CASTLE_NATHRIA_BOSS_7_NAME"] = "The Council of Blood"
 L["CASTLE_NATHRIA_BOSS_7_ICON"] = "icons\\shadowlands\\thecouncilofblood.png.blp"
 L["CASTLE_NATHRIA_BOSS_7_MECHANICS_1"] = "Tank Stavros behind the other two, perpendicular to the raid allowing the lunge to only hit the tank. Tank swap when each tank has 2 stacks of either Evasive Lunge or Duelist’s Riposte."
@@ -300,6 +339,7 @@ L["CASTLE_NATHRIA_BOSS_7_MECHANICS_6"] = "Dark Recital will target two players, 
 L["CASTLE_NATHRIA_BOSS_7_MECHANICS_7"] = "Spread out for Prideful Eruption."
 L["CASTLE_NATHRIA_BOSS_7_MECHANICS_8"] = "At 50% of each boss, Dance Phase intermission occurs. Find your beam of light and stand in it. Then follow what the dredgers do in terms of moving up, down, left, and right."
 
+L["CASTLE_NATHRIA_BOSS_8_SHORT_NAME"] = "Sludgefist"
 L["CASTLE_NATHRIA_BOSS_8_NAME"] = "Sludgefist"
 L["CASTLE_NATHRIA_BOSS_8_ICON"] = "icons\\shadowlands\\sludgefist.png.blp"
 L["CASTLE_NATHRIA_BOSS_8_MECHANICS_1"] = "Tank far enough away so his Destructive Stomp does not hit a pillar. Tanks must stack together."
@@ -309,6 +349,7 @@ L["CASTLE_NATHRIA_BOSS_8_MECHANICS_4"] = "Phase 2: After hitting pillar, Sludgef
 L["CASTLE_NATHRIA_BOSS_8_MECHANICS_5"] = "Cooldown timing: 1-minute cooldowns on pull, and every pillar; 2-minute cooldowns on pull, second pillar, and fourth pillar; 3-minute cooldowns on first pillar and fourth pillar; 4-minute cooldowns on pull and fourth pillar."
 L["CASTLE_NATHRIA_BOSS_8_MECHANICS_6"] = "If at any point Sludgefist hits a wall, it will wipe the raid."
 
+L["CASTLE_NATHRIA_BOSS_9_SHORT_NAME"] = "Stone Legion"
 L["CASTLE_NATHRIA_BOSS_9_NAME"] = "Stone Legion Generals"
 L["CASTLE_NATHRIA_BOSS_9_ICON"] = "icons\\shadowlands\\stonelegiongenerals.png.blp"
 L["CASTLE_NATHRIA_BOSS_9_MECHANICS_1"] = "Tank in center of area due to knockbacks."
@@ -318,6 +359,7 @@ L["CASTLE_NATHRIA_BOSS_9_MECHANICS_4"] = "Phase 2: (General Grashaal): Tank swap
 L["CASTLE_NATHRIA_BOSS_9_MECHANICS_5"] = "Intermission: Continue to tank Grashaal and tank swap. Tank and kill Goliath. Run anima orbs to Prince Renethal. Continue to deal with existing mechanics."
 L["CASTLE_NATHRIA_BOSS_9_MECHANICS_6"] = "Phase 3 (Both): All mechanics in play. Must kill Kaal and Grashaal at the same time."
 
+L["CASTLE_NATHRIA_BOSS_10_SHORT_NAME"] = "Denathrius"
 L["CASTLE_NATHRIA_BOSS_10_NAME"] = "Sire Denathrius"
 L["CASTLE_NATHRIA_BOSS_10_ICON"] = "icons\\shadowlands\\siredenathrius.png.blp"
 L["CASTLE_NATHRIA_BOSS_10_MECHANICS_1"] = "Split raid into two even groups (splitting the tanks)."
